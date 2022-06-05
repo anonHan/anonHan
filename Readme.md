@@ -1,6 +1,8 @@
 ## Hello dear visitor👋
 
-+ I'm currently working in TCS as a Developer
-+ I'm currently learning more about about Data Analysis
+# 👨🏼‍💻 About Me:
+
++ I'm currently working in TCS as a Developer.
++ I'm currently learning more about about Data Analysis, Data Visualization and Machine Learning.
 + I love to do personal projects in my free time.
-+ Buy me a coffee and become my Friend
++ I'm looking for a person to 
