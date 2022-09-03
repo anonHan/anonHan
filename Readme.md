@@ -4,7 +4,7 @@
 ### About Me:
 
 + 👨🏼‍💻 I am an aspiring Data Analyst who loves to play with the data.
-+ 🏢 I'm currently working with TCS as a Developer.
++ 🏢 I'm currently working with TCS as an Engineer.
 + 📈 I'm currently learning more about Data Analysis, Data Visualization and Machine Learning Algorithms.
 + 📌 I enjoy to build personal projects in my free time. 
 + 🧡 In love with SQL😉
