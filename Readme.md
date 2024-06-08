@@ -3,9 +3,7 @@
 ### About Me:
 I'm **Sahil**, a data scientist with over 2 years of experience in the field. I specialize in turning complex data into actionable insights using advanced analytical techniques and machine learning. My passion lies in uncovering hidden patterns and making data-driven decisions by taking jupter notebook experimentation to Produciton grade systems.
 
-+ 👔 LinkedIn: [Sahil Sharma](https://www.linkedin.com/in/sahilthedataanalyst)
-
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> </a>
@@ -25,7 +23,7 @@ I'm **Sahil**, a data scientist with over 2 years of experience in the field. I 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
 </p>
 
-## 🌐 Find Me Online
+### 🌐 Find Me Online
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sahilthedataanalyst" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> </a>
