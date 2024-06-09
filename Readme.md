@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### About Me:
-I'm **Sahil**, a data scientist with over 2 years of experience in the field. I specialize in turning complex data into actionable insights using advanced analytical techniques and machine learning. My passion lies in uncovering hidden patterns and making data-driven decisions by taking jupter notebook experimentation to Produciton grade systems.
+I'm **Sahil**, a data scientist with over 2 years of experience in the field. I specialize in turning complex data into actionable insights using advanced analytical techniques and machine learning. My passion lies in uncovering hidden patterns and making data-driven decisions by taking jupter notebook experimentation to Production grade systems.
 
 ### 🛠️ Tech Stack
 <p align="left">
